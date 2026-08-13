@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "free-for-dev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T13:29:44Z",
+            "owner": "ripienaar",
+            "repo": "free-for-dev",
+            "stars": 131697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cli-apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-04T17:57:03Z",
+            "owner": "agarrharr",
+            "repo": "awesome-cli-apps",
+            "stars": 20153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-oss-alternatives",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-03T17:43:01Z",
+            "owner": "RunaCapital",
+            "repo": "awesome-oss-alternatives",
+            "stars": 19474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-generative-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T10:58:05Z",
+            "owner": "steven2358",
+            "repo": "awesome-generative-ai",
+            "stars": 12491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landscape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T15:21:00Z",
+            "owner": "cncf",
+            "repo": "landscape",
+            "stars": 9956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T19:10:35Z",
+            "owner": "jamesmurdza",
+            "repo": "awesome-ai-devtools",
+            "stars": 3911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-dx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-12T12:57:01Z",
+            "owner": "workos",
+            "repo": "awesome-developer-experience",
+            "stars": 2265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-oss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-28T23:56:25Z",
+            "owner": "sereneblue",
+            "repo": "awesome-oss",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-developer-first",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T08:20:45Z",
+            "owner": "agamm",
+            "repo": "awesome-developer-first",
+            "stars": 1768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foss-for-dev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-24T07:50:10Z",
+            "owner": "tvvocold",
+            "repo": "FOSS-for-Dev",
+            "stars": 1401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-open-company",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-30T16:18:37Z",
+            "owner": "opencompany",
+            "repo": "awesome-open-company",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-sdks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T17:29:58Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-sdks",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-devops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T18:08:54Z",
+            "owner": "joubertredrat",
+            "repo": "awesome-devops",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openapi-tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:21:40Z",
+            "owner": "apisyouwonthate",
+            "repo": "openapi.tools",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learn-from-open-source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-10T12:41:25Z",
+            "owner": "elie222",
+            "repo": "learn-from-open-source",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-enablement-stack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-24T12:59:23Z",
+            "owner": "daytona",
+            "repo": "ai-enablement-stack",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T22:11:36Z",
+            "owner": "moimikey",
+            "repo": "awesome-devtools",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-foss-apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-07T12:45:04Z",
+            "owner": "DataDaoDe",
+            "repo": "awesome-foss-apps",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-side-project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-13T20:49:28Z",
+            "owner": "maxprilutskiy",
+            "repo": "awesome-side-project",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-oss-saas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-30T22:33:13Z",
+            "owner": "vihar",
+            "repo": "awesome-oss-saas",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-oss-devsec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-05-15T15:25:50Z",
+            "owner": "boxyhq",
+            "repo": "awesome-oss-devsec",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-software-development-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-14T16:53:57Z",
+            "owner": "flatlogic",
+            "repo": "awesome-ai-software-development-agents",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-product-hunt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T09:51:03Z",
+            "owner": "fmerian",
+            "repo": "awesome-product-hunt",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "launchweek.dev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-07-30T13:19:24Z",
+            "owner": "supabase-community",
+            "repo": "launchweek.dev",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "find-oss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-01T09:03:00Z",
+            "owner": "SimoMay",
+            "repo": "find-oss",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-developer-experience",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-07T19:37:54Z",
+            "owner": "prokopsimek",
+            "repo": "awesome-developer-experience",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-deved",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-21T16:17:49Z",
+            "owner": "kamranayub",
+            "repo": "awesome-deved",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-selfhosted-product",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-06T21:14:49Z",
+            "owner": "kiarafbickers",
+            "repo": "awesome-selfhosted-product",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-tools-integrations-market-map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-13T19:04:30Z",
+            "owner": "auchenberg",
+            "repo": "ai-tools-integrations-market-map",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usage-based-pricing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-11T13:25:43Z",
+            "owner": "appsmithorg",
+            "repo": "usage-based-pricing",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-pricing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-28T08:06:08Z",
+            "owner": "quentin-py",
+            "repo": "awesome-pricing",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-v0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-17T14:27:24Z",
+            "owner": "fmerian",
+            "repo": "awesome-v0",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevOps tools",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Software development tools",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Software productivity tools",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Tools for Open Source",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-newsletters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T18:23:06Z",
+            "owner": "zudochkin",
+            "repo": "awesome-newsletters",
+            "stars": 4447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "developer-newsletters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-18T09:30:49Z",
+            "owner": "jackbridger",
+            "repo": "developer-newsletters",
+            "stars": 196
+          }
+        }
+      ],
+      "title": "more newsletters ↓"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-discord-communities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T19:09:39Z",
+            "owner": "mhxion",
+            "repo": "awesome-discord-communities",
+            "stars": 3569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-slack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-23T02:15:08Z",
+            "owner": "filipelinhares",
+            "repo": "awesome-slack",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-dev-discord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-15T12:27:11Z",
+            "owner": "ljosberinn",
+            "repo": "awesome-dev-discord",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-slack-communities",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "more communities ↓"
+    },
+    {
+      "description": "Sorted by Domain Ratings, as measured by Ahrefs.",
+      "items": [],
+      "title": "websites"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:55:28.776Z",
+    "original_repository": "fmerian/awesome-developer-first-channels",
+    "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
+    "enhanced_repository": "enhansome/enhansome-developer-first-channels",
+    "enhanced_repository_description": null,
+    "title": "awesome-developer-first-channels with stars"
+  }
+}
