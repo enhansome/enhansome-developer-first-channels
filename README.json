@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T06:02:10Z",
+            "last_commit": "2026-08-17T11:45:22Z",
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 131984
+            "stars": 132049
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-04T17:57:03Z",
+            "last_commit": "2026-08-17T08:07:54Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20164
+            "stars": 20175
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-09-03T17:43:01Z",
             "owner": "RunaCapital",
             "repo": "awesome-oss-alternatives",
-            "stars": 19489
+            "stars": 19494
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12502
+            "stars": 12503
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T22:27:43Z",
+            "last_commit": "2026-08-17T19:39:05Z",
             "owner": "cncf",
             "repo": "landscape",
-            "stars": 9958
+            "stars": 9963
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3912
+            "stars": 3914
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-15T00:06:54Z",
             "owner": "sereneblue",
             "repo": "awesome-oss",
-            "stars": 1926
+            "stars": 1927
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-05T08:20:45Z",
             "owner": "agamm",
             "repo": "awesome-developer-first",
-            "stars": 1770
+            "stars": 1771
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-04-24T07:50:10Z",
             "owner": "tvvocold",
             "repo": "FOSS-for-Dev",
-            "stars": 1402
+            "stars": 1403
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-07-09T17:29:58Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-sdks",
-            "stars": 1211
+            "stars": 1210
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-07-24T12:59:23Z",
             "owner": "daytona",
             "repo": "ai-enablement-stack",
-            "stars": 639
+            "stars": 640
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2024-12-30T22:33:13Z",
             "owner": "vihar",
             "repo": "awesome-oss-saas",
-            "stars": 336
+            "stars": 337
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2025-05-07T19:37:54Z",
             "owner": "prokopsimek",
             "repo": "awesome-developer-experience",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:32:30.885Z",
+    "last_updated": "2026-08-17T23:33:58.628Z",
     "original_repository": "fmerian/awesome-developer-first-channels",
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
     "enhanced_repository": "enhansome/enhansome-developer-first-channels",
