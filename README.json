@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T11:45:22Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 132181
+                "stars": 132224
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 38832942,
                 "language": "Shell",
-                "last_commit": "2026-08-18T11:17:14Z",
+                "last_commit": "2026-08-19T21:10:36Z",
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20187
+                "stars": 20191
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-03T17:43:01Z",
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19500
+                "stars": 19502
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 72878982,
                 "language": null,
-                "last_commit": "2026-08-18T20:46:18Z",
+                "last_commit": "2026-08-19T17:43:01Z",
                 "owner": "cncf",
                 "repo": "landscape",
                 "stars": 9974
@@ -92,7 +92,7 @@
                 "last_commit": "2026-07-11T19:10:35Z",
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3916
+                "stars": 3917
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-05T08:20:45Z",
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1774
+                "stars": 1776
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:57.608Z",
+    "last_updated": "2026-08-19T23:33:55.341Z",
     "original_repository": "fmerian/awesome-developer-first-channels",
     "original_repository_id": 608380863,
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
