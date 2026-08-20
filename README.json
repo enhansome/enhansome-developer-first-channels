@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 32484381,
                 "language": "HTML",
-                "last_commit": "2026-08-17T11:45:22Z",
+                "last_commit": "2026-08-20T14:57:38Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 132224
+                "stars": 132304
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T21:10:36Z",
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20191
+                "stars": 20201
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-03T17:43:01Z",
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19502
+                "stars": 19511
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12514
+                "stars": 12523
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 72878982,
                 "language": null,
-                "last_commit": "2026-08-19T17:43:01Z",
+                "last_commit": "2026-08-20T18:19:20Z",
                 "owner": "cncf",
                 "repo": "landscape",
                 "stars": 9974
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-05T08:20:45Z",
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1776
+                "stars": 1782
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-04-24T07:50:10Z",
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
-                "stars": 1403
+                "stars": 1404
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-07-09T17:29:58Z",
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
-                "stars": 1211
+                "stars": 1213
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-07-24T12:59:23Z",
                 "owner": "daytona",
                 "repo": "ai-enablement-stack",
-                "stars": 640
+                "stars": 641
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2026-02-14T16:53:57Z",
                 "owner": "flatlogic",
                 "repo": "awesome-ai-software-development-agents",
-                "stars": 180
+                "stars": 181
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-04-17T18:23:06Z",
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4449
+                "stars": 4451
               }
             },
             {
@@ -553,7 +553,7 @@
                 "last_commit": "2026-04-25T19:09:39Z",
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3573
+                "stars": 3574
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:33:55.341Z",
+    "last_updated": "2026-08-20T23:37:07.739Z",
     "original_repository": "fmerian/awesome-developer-first-channels",
     "original_repository_id": 608380863,
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
