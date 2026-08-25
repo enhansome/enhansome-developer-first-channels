@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:45:41Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135048
+                "stars": 135113
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-22T08:06:18Z",
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20237
+                "stars": 20239
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-03T17:43:01Z",
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19539
+                "stars": 19540
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:32:40.675Z",
+    "last_updated": "2026-08-25T06:30:29.488Z",
     "original_repository": "fmerian/awesome-developer-first-channels",
     "original_repository_id": 608380863,
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
