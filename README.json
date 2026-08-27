@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T11:15:36Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135435
+                "stars": 135466
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-22T08:06:18Z",
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20250
+                "stars": 20253
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-09-03T17:43:01Z",
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19565
+                "stars": 19569
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12536
+                "stars": 12537
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-26T19:01:42Z",
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 9979
+                "stars": 9980
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-07-11T19:10:35Z",
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3920
+                "stars": 3921
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2024-07-03T18:08:54Z",
                 "owner": "joubertredrat",
                 "repo": "awesome-devops",
-                "stars": 841
+                "stars": 842
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-04-17T18:23:06Z",
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4455
+                "stars": 4454
               }
             },
             {
@@ -596,9 +596,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:58.019Z",
-    "original_repository": "fmerian/awesome-developer-first-channels",
-    "original_repository_id": 608380863,
+    "last_updated": "2026-08-27T11:37:23.083Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 608380863,
+      "language": null,
+      "last_commit": "2026-07-17T12:35:05Z",
+      "owner": "fmerian",
+      "repo": "awesome-developer-first-channels",
+      "stars": 176
+    },
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
     "enhanced_repository": "enhansome/enhansome-developer-first-channels",
     "enhanced_repository_description": null,
