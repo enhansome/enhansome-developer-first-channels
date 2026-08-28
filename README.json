@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T11:15:36Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135466
-              }
+                "stars": 135633
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-22T08:06:18Z",
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20253
-              }
+                "stars": 20263
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2025-09-03T17:43:01Z",
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19569
-              }
+                "stars": 19577
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-03T10:58:05Z",
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12537
-              }
+                "stars": 12539
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -74,11 +78,12 @@
                 "archived": false,
                 "id": 72878982,
                 "language": null,
-                "last_commit": "2026-08-26T19:01:42Z",
+                "last_commit": "2026-08-27T17:21:20Z",
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 9980
-              }
+                "stars": 9981
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -89,11 +94,12 @@
                 "archived": false,
                 "id": 674164679,
                 "language": null,
-                "last_commit": "2026-07-11T19:10:35Z",
+                "last_commit": "2026-08-27T15:25:27Z",
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3921
-              }
+                "stars": 3920
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "workos",
                 "repo": "awesome-developer-experience",
                 "stars": 2265
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "sereneblue",
                 "repo": "awesome-oss",
                 "stars": 1933
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -137,8 +145,9 @@
                 "last_commit": "2026-08-22T21:31:26Z",
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1792
-              }
+                "stars": 1794
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
                 "stars": 1407
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
                 "stars": 1251
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -182,8 +193,9 @@
                 "last_commit": "2026-07-09T17:29:58Z",
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
-                "stars": 1215
-              }
+                "stars": 1217
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "joubertredrat",
                 "repo": "awesome-devops",
                 "stars": 842
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -209,11 +222,12 @@
                 "archived": false,
                 "id": 114417462,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T16:57:54Z",
+                "last_commit": "2026-08-28T01:29:15Z",
                 "owner": "apisyouwonthate",
                 "repo": "openapi.tools",
                 "stars": 841
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "elie222",
                 "repo": "learn-from-open-source",
                 "stars": 660
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "daytona",
                 "repo": "ai-enablement-stack",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "DataDaoDe",
                 "repo": "awesome-foss-apps",
                 "stars": 391
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "maxprilutskiy",
                 "repo": "awesome-side-project",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "vihar",
                 "repo": "awesome-oss-saas",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "boxyhq",
                 "repo": "awesome-oss-devsec",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "flatlogic",
                 "repo": "awesome-ai-software-development-agents",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -359,11 +382,12 @@
                 "archived": false,
                 "id": 688039657,
                 "language": "MDX",
-                "last_commit": "2026-08-26T08:21:51Z",
+                "last_commit": "2026-08-27T13:06:57Z",
                 "owner": "supabase-community",
                 "repo": "launchweek.dev",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "SimoMay",
                 "repo": "find-oss",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "prokopsimek",
                 "repo": "awesome-developer-experience",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "kamranayub",
                 "repo": "awesome-deved",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "kiarafbickers",
                 "repo": "awesome-selfhosted-product",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "auchenberg",
                 "repo": "ai-tools-integrations-market-map",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "appsmithorg",
                 "repo": "usage-based-pricing",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "quentin-py",
                 "repo": "awesome-pricing",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "fmerian",
                 "repo": "awesome-v0",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             }
           ],
           "description": null,
@@ -510,8 +542,9 @@
                 "last_commit": "2026-04-17T18:23:06Z",
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4454
-              }
+                "stars": 4455
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -526,7 +559,8 @@
                 "owner": "jackbridger",
                 "repo": "developer-newsletters",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             }
           ],
           "description": null,
@@ -553,8 +587,9 @@
                 "last_commit": "2026-04-25T19:09:39Z",
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3580
-              }
+                "stars": 3581
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -569,7 +604,8 @@
                 "owner": "filipelinhares",
                 "repo": "awesome-slack",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             },
             {
               "node_type": "item",
@@ -584,7 +620,8 @@
                 "owner": "ljosberinn",
                 "repo": "awesome-dev-discord",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
             }
           ],
           "description": null,
@@ -596,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:23.083Z",
+    "last_updated": "2026-08-28T06:55:04.928Z",
     "original_repository_info": {
       "archived": false,
       "id": 608380863,
