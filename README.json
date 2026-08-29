@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+                "homepage": "https://free-for.dev/",
                 "id": 32484381,
                 "language": "HTML",
-                "last_commit": "2026-08-26T11:15:36Z",
+                "license": null,
+                "last_commit": "2026-08-28T08:34:33Z",
+                "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135633
+                "stars": 135786,
+                "topics": [
+                  "awesome-list",
+                  "free-for-developers"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -28,12 +36,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+                "homepage": null,
                 "id": 38832942,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-22T08:06:18Z",
+                "open_issues": 0,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20263
+                "stars": 20274,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cli",
+                  "cli-app",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -44,12 +63,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+                "homepage": "https://runacap.com",
                 "id": 428202741,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-03T17:43:01Z",
+                "open_issues": 145,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19577
+                "stars": 19581,
+                "topics": [
+                  "alternatives",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "open-source",
+                  "python",
+                  "resources",
+                  "saas",
+                  "startups",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -60,12 +95,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+                "homepage": null,
                 "id": 554771302,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-03T10:58:05Z",
+                "open_issues": 612,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12539
+                "stars": 12542,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "awesome",
+                  "awesome-list",
+                  "generative-ai",
+                  "generative-art",
+                  "large-language-models",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -76,12 +125,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.",
+                "homepage": "https://l.cncf.io",
                 "id": 72878982,
                 "language": null,
-                "last_commit": "2026-08-27T17:21:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:44:43Z",
+                "open_issues": 76,
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 9981
+                "stars": 9983,
+                "topics": [
+                  "cloud-native",
+                  "cncf",
+                  "crunchbase",
+                  "landscape",
+                  "logo",
+                  "serverless",
+                  "svg",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -92,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of AI-powered developer tools.",
+                "homepage": null,
                 "id": 674164679,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
+                "open_issues": 271,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3920
+                "stars": 3922,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -108,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🤘 A curated list of DX (Developer Experience) resources",
+                "homepage": null,
                 "id": 385298606,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-12T12:57:01Z",
+                "open_issues": 28,
                 "owner": "workos",
                 "repo": "awesome-developer-experience",
-                "stars": 2265
+                "stars": 2265,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -124,12 +197,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of open source projects with links to contribute or donate.",
+                "homepage": null,
                 "id": 100654092,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-15T00:06:54Z",
+                "open_issues": 1,
                 "owner": "sereneblue",
                 "repo": "awesome-oss",
-                "stars": 1933
+                "stars": 1933,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "open-source",
+                  "opensource"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -140,12 +224,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome developer-first tools products.",
+                "homepage": null,
                 "id": 298852257,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T21:31:26Z",
+                "open_issues": 5,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1794
+                "stars": 1793,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "developer-first",
+                  "developer-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -156,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hub of Free and open-source software for developers",
+                "homepage": "https://zhaodao.ai/pick/9",
                 "id": 35997955,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-24T07:50:10Z",
+                "open_issues": 8,
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
-                "stars": 1407
+                "stars": 1407,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -172,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-curated list of awesome open companies.",
+                "homepage": null,
                 "id": 33875441,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-30T16:18:37Z",
+                "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1251
+                "stars": 1253,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -188,12 +292,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+                "homepage": null,
                 "id": 675073310,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
+                "open_issues": 244,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
-                "stars": 1217
+                "stars": 1219,
+                "topics": [
+                  "agent",
+                  "agentops",
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "awesome",
+                  "awesome-list",
+                  "chatgpt",
+                  "e2b",
+                  "framework",
+                  "langchain",
+                  "llama-index",
+                  "llm",
+                  "llmops",
+                  "openai",
+                  "sdk",
+                  "tools",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -204,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is my awesome list with all open source and free applications that you can use in your management",
+                "homepage": null,
                 "id": 45676563,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2024-07-03T18:08:54Z",
+                "open_issues": 57,
                 "owner": "joubertredrat",
                 "repo": "awesome-devops",
-                "stars": 842
+                "stars": 842,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -220,12 +353,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most comprehensive collection of quality OpenAPI tooling, curated by Phil Sturgeon and the team at APIs You Won't Hate.",
+                "homepage": "https://openapi.tools",
                 "id": 114417462,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:29:15Z",
+                "open_issues": 5,
                 "owner": "apisyouwonthate",
                 "repo": "openapi.tools",
-                "stars": 841
+                "stars": 841,
+                "topics": [
+                  "api-rest",
+                  "openapi",
+                  "openapi-documentation",
+                  "openapi-generator",
+                  "openapi-spec",
+                  "openapi-specification",
+                  "openapi-validation",
+                  "openapi3",
+                  "openapi31"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -236,12 +384,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of open source projects to learn from",
+                "homepage": null,
                 "id": 690448899,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-10T12:41:25Z",
+                "open_issues": 49,
                 "owner": "elie222",
                 "repo": "learn-from-open-source",
-                "stars": 660
+                "stars": 661,
+                "topics": [
+                  "hacktoberfest",
+                  "opensource"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -252,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Community-Driven Mapping of AI Development Tools",
+                "homepage": null,
                 "id": 897809462,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T12:59:23Z",
+                "open_issues": 1,
                 "owner": "daytona",
                 "repo": "ai-enablement-stack",
-                "stars": 641
+                "stars": 641,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -268,12 +429,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.",
+                "homepage": null,
                 "id": 22811746,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
+                "open_issues": 34,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bookmarklets",
+                  "bookmarks",
+                  "browser-bookmarklets",
+                  "dev-resources",
+                  "devdocs",
+                  "list",
+                  "regex",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -284,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome production grade free and open source software organized by category",
+                "homepage": null,
                 "id": 38132908,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-07T12:45:04Z",
+                "open_issues": 6,
                 "owner": "DataDaoDe",
                 "repo": "awesome-foss-apps",
-                "stars": 391
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -300,12 +482,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔖 A collection of FREE tools to get your side project off the ground, and fast!",
+                "homepage": null,
                 "id": 395546912,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-13T20:49:28Z",
+                "open_issues": 21,
                 "owner": "maxprilutskiy",
                 "repo": "awesome-side-project",
-                "stars": 355
+                "stars": 355,
+                "topics": [
+                  "awesome-list",
+                  "bootstrapper",
+                  "entrepreneurs",
+                  "side-project",
+                  "sideproject",
+                  "startup",
+                  "startup-resources",
+                  "startups"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -316,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of open-source saas tools",
+                "homepage": null,
                 "id": 583447444,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-12-30T22:33:13Z",
+                "open_issues": 17,
                 "owner": "vihar",
                 "repo": "awesome-oss-saas",
-                "stars": 336
+                "stars": 336,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -332,12 +533,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An awesome list of OSS developer-first security tools",
+                "homepage": "https://awesome-oss-devsec.boxyhq.com",
                 "id": 515772887,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-15T15:25:50Z",
+                "open_issues": 2,
                 "owner": "boxyhq",
                 "repo": "awesome-oss-devsec",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "developer-security",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "open-source",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -348,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome List of AI Software Development Agents (Engineers)",
+                "homepage": null,
                 "id": 942085005,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-14T16:53:57Z",
+                "open_issues": 13,
                 "owner": "flatlogic",
                 "repo": "awesome-ai-software-development-agents",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -364,12 +582,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome developer tools launched on Product Hunt.",
+                "homepage": null,
                 "id": 724531474,
                 "language": null,
-                "last_commit": "2026-08-25T12:17:54Z",
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-28T20:58:15Z",
+                "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "dev-tools",
+                  "developer-first",
+                  "developer-marketing",
+                  "developer-tools",
+                  "product-hunt",
+                  "startups"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -380,12 +612,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tracking launch weeks across the industry for product discovery and inspiration",
+                "homepage": "https://launchweek.dev",
                 "id": 688039657,
                 "language": "MDX",
+                "license": null,
                 "last_commit": "2026-08-27T13:06:57Z",
+                "open_issues": 1,
                 "owner": "supabase-community",
                 "repo": "launchweek.dev",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "developer-first",
+                  "developer-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -396,12 +638,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of popular open source alternatives to proprietary SaaS",
+                "homepage": null,
                 "id": 474127208,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-01T09:03:00Z",
+                "open_issues": 0,
                 "owner": "SimoMay",
                 "repo": "find-oss",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "open-source",
+                  "oss",
+                  "saas",
+                  "startups",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -412,12 +668,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Developer Experience resources and tools.",
+                "homepage": null,
                 "id": 339644323,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-07T19:37:54Z",
+                "open_issues": 6,
                 "owner": "prokopsimek",
                 "repo": "awesome-developer-experience",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "developer-experience",
+                  "developer-productivity",
+                  "developer-tools",
+                  "developerexperience",
+                  "dx",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -428,12 +698,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DevEd with umami. Awesome List of developer education covering blogs, tutorials, academies, visual essays, games, and more.",
+                "homepage": "https://deved.rocks/awesome",
                 "id": 565006696,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-21T16:17:49Z",
+                "open_issues": 2,
                 "owner": "kamranayub",
                 "repo": "awesome-deved",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deved",
+                  "developer-education",
+                  "developer-relations",
+                  "devrel",
+                  "education"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -444,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of free product focused services and web applications which can be hosted on your own servers",
+                "homepage": null,
                 "id": 691221836,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-06T21:14:49Z",
+                "open_issues": 3,
                 "owner": "kiarafbickers",
                 "repo": "awesome-selfhosted-product",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -460,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ai-tools-integrations-market-map",
+                "homepage": "https://ai-tools-integrations-market-map.vercel.app/",
                 "id": 918406512,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-13T19:04:30Z",
+                "open_issues": 0,
                 "owner": "auchenberg",
                 "repo": "ai-tools-integrations-market-map",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -476,12 +769,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of companies and revenue models with usage based billing ",
+                "homepage": "https://www.usagebased.org",
                 "id": 632377013,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-03-11T13:25:43Z",
+                "open_issues": 8,
                 "owner": "appsmithorg",
                 "repo": "usage-based-pricing",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "awesome-list",
+                  "billing",
+                  "pricing"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -492,12 +794,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of the best software pricing pages and useful resources for pricing research",
+                "homepage": null,
                 "id": 1028590565,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-28T08:06:08Z",
+                "open_issues": 0,
                 "owner": "quentin-py",
                 "repo": "awesome-pricing",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ai",
+                  "devtools",
+                  "monetization",
+                  "open-source",
+                  "pricing",
+                  "saas"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -508,12 +822,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome resources and examples using v0, the AI builder for everyone.",
+                "homepage": "https://v0.link/awesome",
                 "id": 1041417062,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-17T14:27:24Z",
+                "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-v0",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "nextjs",
+                  "v0",
+                  "v0-dev",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             }
@@ -537,12 +863,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of amazing Newsletters",
+                "homepage": "https://zudochkin.github.io/awesome-newsletters/",
                 "id": 40307075,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-17T18:23:06Z",
+                "open_issues": 47,
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4455
+                "stars": 4455,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "email",
+                  "email-newsletter",
+                  "emails",
+                  "newsletter"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -553,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of developer newsletters (and how to sponsor them)",
+                "homepage": null,
                 "id": 505445101,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-18T09:30:49Z",
+                "open_issues": 9,
                 "owner": "jackbridger",
                 "repo": "developer-newsletters",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             }
@@ -582,12 +925,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Discord communities for programmers",
+                "homepage": null,
                 "id": 203677928,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-04-25T19:09:39Z",
+                "open_issues": 25,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3581
+                "stars": 3583,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "beginner",
+                  "community",
+                  "discord",
+                  "discord-server",
+                  "game-development",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -598,12 +955,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕶️  List of communities powered by Slack.",
+                "homepage": null,
                 "id": 36076406,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-23T02:15:08Z",
+                "open_issues": 1,
                 "owner": "filipelinhares",
                 "repo": "awesome-slack",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "community",
+                  "list",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -614,12 +982,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of official, development-related Discord server",
+                "homepage": "https://dev-discords.now.sh/",
                 "id": 268828552,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-15T12:27:11Z",
+                "open_issues": 0,
                 "owner": "ljosberinn",
                 "repo": "awesome-dev-discord",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "community",
+                  "development",
+                  "discord",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             }
@@ -633,15 +1011,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:04.928Z",
+    "last_updated": "2026-08-29T04:07:47.068Z",
     "original_repository_info": {
       "archived": false,
+      "description": "hand-picked places to promote your developer-first product",
+      "homepage": "https://marketingto.dev",
       "id": 608380863,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-17T12:35:05Z",
+      "open_issues": 4,
       "owner": "fmerian",
       "repo": "awesome-developer-first-channels",
-      "stars": 176
+      "stars": 176,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "beta-testing",
+        "developer-first",
+        "devrel",
+        "directories",
+        "github",
+        "marketing",
+        "marketing-dev",
+        "medium",
+        "open-source",
+        "open-source-software",
+        "reddit",
+        "startups"
+      ]
     },
     "original_repository_sha": "4e8b6ee93ce59d484cfafa5c038044e87910b625",
     "enhanced_repository": "enhansome/enhansome-developer-first-channels",
