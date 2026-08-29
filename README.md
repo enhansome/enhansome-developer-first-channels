@@ -21,7 +21,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,793
 
 ### repositories
 
-* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 135,786 | 🐛 11 | 🌐 HTML | 📅 2026-08-28
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 135,788 | 🐛 11 | 🌐 HTML | 📅 2026-08-28
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,274 | 🐛 0 | 🌐 Shell | 📅 2026-08-22
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,581 | 🐛 145 | 🌐 Python | 📅 2025-09-03 ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,542 | 🐛 612 | 📅 2026-08-03
