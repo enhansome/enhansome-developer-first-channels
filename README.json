@@ -18,10 +18,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-09-04T05:12:24Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 136743,
+                "stars": 136835,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -42,10 +42,10 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2026-09-05T19:55:02Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20339,
+                "stars": 20347,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -72,7 +72,7 @@
                 "open_issues": 147,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19623,
+                "stars": 19625,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-06T22:08:05Z",
-                "open_issues": 629,
+                "open_issues": 631,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12571,
+                "stars": 12574,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -130,7 +130,7 @@
                 "id": 72878982,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T18:37:03Z",
+                "last_commit": "2026-09-07T20:28:35Z",
                 "open_issues": 88,
                 "owner": "cncf",
                 "repo": "landscape",
@@ -161,10 +161,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 283,
+                "open_issues": 288,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3932,
+                "stars": 3931,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -259,7 +259,7 @@
                 "open_issues": 8,
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
-                "stars": 1412,
+                "stars": 1411,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1256,
+                "stars": 1258,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -298,7 +298,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
-                "open_issues": 254,
+                "open_issues": 258,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
                 "stars": 1217,
@@ -322,6 +322,27 @@
                   "tools",
                   "vercel"
                 ]
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devops",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is my awesome list with all open source and free applications that you can use in your management",
+                "homepage": null,
+                "id": 45676563,
+                "language": null,
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2024-07-03T18:08:54Z",
+                "open_issues": 58,
+                "owner": "joubertredrat",
+                "repo": "awesome-devops",
+                "stars": 843,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -353,27 +374,6 @@
                   "openapi3",
                   "openapi31"
                 ]
-              },
-              "first_seen": "2026-08-28T06:55:04.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-devops",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is my awesome list with all open source and free applications that you can use in your management",
-                "homepage": null,
-                "id": 45676563,
-                "language": null,
-                "license": "CC-BY-SA-4.0",
-                "last_commit": "2024-07-03T18:08:54Z",
-                "open_issues": 58,
-                "owner": "joubertredrat",
-                "repo": "awesome-devops",
-                "stars": 842,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -435,7 +435,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
-                "open_issues": 38,
+                "open_issues": 41,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
                 "stars": 534,
@@ -591,7 +591,7 @@
                 "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:58:45.680Z",
+    "last_updated": "2026-09-08T01:09:56.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
