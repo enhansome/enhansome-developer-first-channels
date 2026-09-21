@@ -1,6 +1,6 @@
 # awesome-developer-first-channels with stars
 
-Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,819 | 🐛 3 | 📅 2026-09-18 and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 7,422 | 🐛 38 | 📅 2026-08-29, this repository is a non-exhaustive list of awesome places **for developer-first products.** You might also like [awesome-product-hunt](https://git.new/meow).
+Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,823 | 🐛 3 | 📅 2026-09-18 and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 7,549 | 🐛 38 | 📅 2026-08-29, this repository is a non-exhaustive list of awesome places **for developer-first products.** You might also like [awesome-product-hunt](https://git.new/meow).
 
 [Want to contribute?](#contributing)
 
@@ -21,32 +21,32 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,819
 
 ### repositories
 
-* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 137,800 | 🐛 14 | 🌐 HTML | 📅 2026-09-18
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,427 | 🐛 0 | 🌐 Shell | 📅 2026-09-13
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,675 | 🐛 145 | 🌐 Python | 📅 2025-09-03 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,656 | 🐛 692 | 📅 2026-09-16
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 137,892 | 🐛 12 | 🌐 HTML | 📅 2026-09-20
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,433 | 🐛 0 | 🌐 Shell | 📅 2026-09-13
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,682 | 🐛 145 | 🌐 Python | 📅 2025-09-03 ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,660 | 🐛 699 | 📅 2026-09-16
 * [landscape](https://github.com/cncf/landscape) ⭐ 9,995 | 🐛 77 | 📅 2026-09-19
-* [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,947 | 🐛 302 | 📅 2026-08-27
+* [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,947 | 🐛 306 | 📅 2026-08-27
 * [awesome-dx](https://github.com/workos/awesome-developer-experience) ⚠️ Archived
 * [awesome-oss](https://github.com/sereneblue/awesome-oss) ⭐ 1,944 | 🐛 3 | 📅 2026-08-15 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-developer-first](https://github.com/agamm/awesome-developer-first) ⭐ 1,819 | 🐛 3 | 📅 2026-09-18
-* [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ⭐ 1,418 | 🐛 8 | 📅 2024-04-24 ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-developer-first](https://github.com/agamm/awesome-developer-first) ⭐ 1,823 | 🐛 3 | 📅 2026-09-18
+* [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ⭐ 1,419 | 🐛 8 | 📅 2024-04-24 ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company) ⭐ 1,266 | 🐛 12 | 📅 2024-03-30
-* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,223 | 🐛 270 | 📅 2026-07-09
+* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,223 | 🐛 271 | 📅 2026-07-09
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops) ⭐ 842 | 🐛 57 | 📅 2024-07-03
-* [openapi-tools](https://github.com/apisyouwonthate/openapi.tools) ⭐ 842 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-19
+* [openapi-tools](https://github.com/apisyouwonthate/openapi.tools) ⭐ 842 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-19
 * [learn-from-open-source](https://github.com/elie222/learn-from-open-source) ⭐ 665 | 🐛 49 | 📅 2024-04-10 ![open-source](https://img.shields.io/badge/open--source-black)
 * [ai-enablement-stack](https://github.com/daytonaio/ai-enablement-stack) ⭐ 643 | 🐛 2 | 🌐 HTML | 📅 2026-07-24
-* [awesome-devtools](https://github.com/moimikey/awesome-devtools) ⭐ 537 | 🐛 52 | 📅 2026-07-27
+* [awesome-devtools](https://github.com/moimikey/awesome-devtools) ⭐ 537 | 🐛 53 | 📅 2026-07-27
 * [awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) ⭐ 391 | 🐛 6 | 📅 2024-08-07 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) ⭐ 356 | 🐛 21 | 📅 2024-03-13
+* [awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) ⭐ 356 | 🐛 22 | 📅 2024-03-13
 * [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas) ⭐ 337 | 🐛 20 | 📅 2024-12-30 ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) ⚠️ Archived ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-ai-software-development-agents](https://github.com/flatlogic/awesome-ai-software-development-agents) ⭐ 186 | 🐛 12 | 📅 2026-02-14
 * [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt) ⭐ 144 | 🐛 0 | 📅 2026-09-15
 * [launchweek.dev](https://github.com/supabase-community/launchweek.dev) ⭐ 139 | 🐛 1 | 🌐 MDX | 📅 2026-09-02
 * [find-oss](https://github.com/SimoMay/find-oss) ⭐ 93 | 🐛 0 | 📅 2026-09-12 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience#-tools) ⭐ 78 | 🐛 8 | 📅 2025-05-07
+* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience#-tools) ⭐ 78 | 🐛 0 | 📅 2025-05-07
 * [awesome-deved](https://github.com/kamranayub/awesome-deved) ⭐ 41 | 🐛 2 | 📅 2024-12-21
 * [awesome-selfhosted-product](https://github.com/kiarafbickers/awesome-selfhosted-product) ⭐ 35 | 🐛 3 | 📅 2024-03-06 ![open-source](https://img.shields.io/badge/open--source-black)
 * [ai-tools-integrations-market-map](https://github.com/auchenberg/ai-tools-integrations-market-map/) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-13
@@ -92,7 +92,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,819
 
 ### more newsletters ↓
 
-* [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,471 | 🐛 54 | 📅 2026-04-17
+* [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,472 | 🐛 54 | 📅 2026-04-17
 * [developer-newsletters](https://github.com/jackbridger/developer-newsletters) ⭐ 195 | 🐛 9 | 📅 2026-03-18
 
 [↑ back to top](#contents)
@@ -176,7 +176,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,819
 
 ### more communities ↓
 
-* [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) ⭐ 3,598 | 🐛 26 | 🌐 Python | 📅 2026-04-25
+* [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) ⭐ 3,602 | 🐛 26 | 🌐 Python | 📅 2026-04-25
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) ⭐ 343 | 🐛 2 | 📅 2023-05-23
 * [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) ⭐ 206 | 🐛 0 | 📅 2025-09-15
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
@@ -370,4 +370,4 @@ Thank you for making this list more awesome! Enjoy!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
