@@ -17,11 +17,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-21T19:51:30Z",
+                "last_commit": "2026-09-22T14:26:21Z",
                 "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 137958,
+                "stars": 138009,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -45,7 +45,7 @@
                 "open_issues": 0,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20439,
+                "stars": 20449,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T21:39:51Z",
-                "open_issues": 707,
+                "open_issues": 716,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12664,
+                "stars": 12667,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -130,11 +130,11 @@
                 "id": 72878982,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T08:40:33Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-22T19:54:23Z",
+                "open_issues": 69,
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 9996,
+                "stars": 9997,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -161,10 +161,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 309,
+                "open_issues": 311,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3947,
+                "stars": 3948,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -185,7 +185,7 @@
                 "open_issues": 28,
                 "owner": "workos",
                 "repo": "awesome-developer-experience",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1824,
+                "stars": 1827,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -298,10 +298,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
-                "open_issues": 271,
+                "open_issues": 273,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
-                "stars": 1224,
+                "stars": 1225,
                 "topics": [
                   "agent",
                   "agentops",
@@ -327,6 +327,37 @@
             },
             {
               "node_type": "item",
+              "title": "openapi-tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The most comprehensive collection of quality OpenAPI tooling, curated by Phil Sturgeon and the team at APIs You Won't Hate.",
+                "homepage": "https://openapi.tools",
+                "id": 114417462,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-22T19:58:38Z",
+                "open_issues": 9,
+                "owner": "apisyouwonthate",
+                "repo": "openapi.tools",
+                "stars": 843,
+                "topics": [
+                  "api-rest",
+                  "openapi",
+                  "openapi-documentation",
+                  "openapi-generator",
+                  "openapi-spec",
+                  "openapi-specification",
+                  "openapi-validation",
+                  "openapi3",
+                  "openapi31"
+                ]
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-devops",
               "description": null,
               "children": [],
@@ -343,37 +374,6 @@
                 "repo": "awesome-devops",
                 "stars": 842,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:55:04.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "openapi-tools",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The most comprehensive collection of quality OpenAPI tooling, curated by Phil Sturgeon and the team at APIs You Won't Hate.",
-                "homepage": "https://openapi.tools",
-                "id": 114417462,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-21T11:52:50Z",
-                "open_issues": 9,
-                "owner": "apisyouwonthate",
-                "repo": "openapi.tools",
-                "stars": 842,
-                "topics": [
-                  "api-rest",
-                  "openapi",
-                  "openapi-documentation",
-                  "openapi-generator",
-                  "openapi-spec",
-                  "openapi-specification",
-                  "openapi-validation",
-                  "openapi3",
-                  "openapi31"
-                ]
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -438,7 +438,7 @@
                 "open_issues": 54,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -542,7 +542,7 @@
                 "open_issues": 2,
                 "owner": "boxyhq",
                 "repo": "awesome-oss-devsec",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "developer-security",
                   "hacktoberfest",
@@ -587,7 +587,7 @@
                 "id": 724531474,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-15T10:20:42Z",
+                "last_commit": "2026-09-22T08:48:55Z",
                 "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
@@ -677,7 +677,7 @@
                 "open_issues": 1,
                 "owner": "prokopsimek",
                 "repo": "awesome-developer-experience",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
                 "open_issues": 2,
                 "owner": "kamranayub",
                 "repo": "awesome-deved",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -934,7 +934,7 @@
                 "open_issues": 26,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3605,
+                "stars": 3606,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:35:21.955Z",
+    "last_updated": "2026-09-23T01:28:23.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
