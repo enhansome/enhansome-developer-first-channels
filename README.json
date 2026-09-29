@@ -17,11 +17,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-27T08:29:08Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-28T19:09:06Z",
+                "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 138709,
+                "stars": 138802,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -41,11 +41,11 @@
                 "id": 38832942,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-09-21T16:12:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-28T21:32:12Z",
+                "open_issues": 1,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20477,
+                "stars": 20482,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -72,7 +72,7 @@
                 "open_issues": 147,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19707,
+                "stars": 19714,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T21:39:51Z",
-                "open_issues": 737,
+                "open_issues": 744,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12689,
+                "stars": 12693,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -130,8 +130,8 @@
                 "id": 72878982,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:24:33Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-28T16:14:21Z",
+                "open_issues": 62,
                 "owner": "cncf",
                 "repo": "landscape",
                 "stars": 9996,
@@ -161,10 +161,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 321,
+                "open_issues": 323,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3949,
+                "stars": 3951,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -206,7 +206,7 @@
                 "open_issues": 4,
                 "owner": "sereneblue",
                 "repo": "awesome-oss",
-                "stars": 1947,
+                "stars": 1948,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -230,7 +230,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T15:20:55Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
                 "stars": 1832,
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1271,
+                "stars": 1273,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -298,7 +298,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
-                "open_issues": 274,
+                "open_issues": 272,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
                 "stars": 1226,
@@ -337,7 +337,7 @@
                 "id": 114417462,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T14:32:36Z",
+                "last_commit": "2026-09-28T17:29:23Z",
                 "open_issues": 12,
                 "owner": "apisyouwonthate",
                 "repo": "openapi.tools",
@@ -393,7 +393,7 @@
                 "open_issues": 49,
                 "owner": "elie222",
                 "repo": "learn-from-open-source",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "hacktoberfest",
                   "opensource"
@@ -435,10 +435,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -570,7 +570,7 @@
                 "open_issues": 12,
                 "owner": "flatlogic",
                 "repo": "awesome-ai-software-development-agents",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -587,7 +587,7 @@
                 "id": 724531474,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-24T08:57:55Z",
+                "last_commit": "2026-09-28T08:32:57Z",
                 "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
@@ -872,7 +872,7 @@
                 "open_issues": 55,
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4485,
+                "stars": 4486,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -900,7 +900,7 @@
                 "open_issues": 9,
                 "owner": "jackbridger",
                 "repo": "developer-newsletters",
-                "stars": 195,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -934,7 +934,7 @@
                 "open_issues": 26,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3609,
+                "stars": 3611,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:37:18.813Z",
+    "last_updated": "2026-09-29T02:33:50.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
