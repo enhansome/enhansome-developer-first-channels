@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "free-for-dev",
-              "description": null,
+              "description": "ripienaar/free-for-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18,10 +18,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-02T19:43:27Z",
-                "open_issues": 11,
+                "open_issues": 14,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 139090,
+                "stars": 139095,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "awesome-cli-apps",
-              "description": null,
+              "description": "agarrharr/awesome-cli-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,7 +45,7 @@
                 "open_issues": 1,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20494,
+                "stars": 20495,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -59,7 +59,7 @@
             {
               "node_type": "item",
               "title": "awesome-oss-alternatives",
-              "description": null,
+              "description": "RunaCapital/awesome-oss-alternatives",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -72,7 +72,7 @@
                 "open_issues": 148,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19727,
+                "stars": 19730,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -91,7 +91,7 @@
             {
               "node_type": "item",
               "title": "awesome-generative-ai",
-              "description": null,
+              "description": "steven2358/awesome-generative-ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T21:39:51Z",
-                "open_issues": 785,
+                "open_issues": 786,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12702,
+                "stars": 12704,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -121,7 +121,7 @@
             {
               "node_type": "item",
               "title": "landscape",
-              "description": null,
+              "description": "cncf/landscape",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
             {
               "node_type": "item",
               "title": "awesome-ai-devtools",
-              "description": null,
+              "description": "jamesmurdza/awesome-ai-devtools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "awesome-dx",
-              "description": null,
+              "description": "workos/awesome-developer-experience",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "awesome-oss",
-              "description": null,
+              "description": "sereneblue/awesome-oss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
                 "open_issues": 4,
                 "owner": "sereneblue",
                 "repo": "awesome-oss",
-                "stars": 1951,
+                "stars": 1952,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -220,7 +220,7 @@
             {
               "node_type": "item",
               "title": "awesome-developer-first",
-              "description": null,
+              "description": "agamm/awesome-developer-first",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1833,
+                "stars": 1834,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -246,7 +246,7 @@
             {
               "node_type": "item",
               "title": "foss-for-dev",
-              "description": null,
+              "description": "tvvocold/FOSS-for-Dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -267,7 +267,7 @@
             {
               "node_type": "item",
               "title": "awesome-open-company",
-              "description": null,
+              "description": "opencompany/awesome-open-company",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -288,7 +288,7 @@
             {
               "node_type": "item",
               "title": "awesome-ai-sdks",
-              "description": null,
+              "description": "e2b-dev/awesome-ai-sdks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
                 "open_issues": 276,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": [
                   "agent",
                   "agentops",
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "openapi-tools",
-              "description": null,
+              "description": "apisyouwonthate/openapi.tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "awesome-devops",
-              "description": null,
+              "description": "joubertredrat/awesome-devops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "learn-from-open-source",
-              "description": null,
+              "description": "elie222/learn-from-open-source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "ai-enablement-stack",
-              "description": null,
+              "description": "daytona/ai-enablement-stack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
             {
               "node_type": "item",
               "title": "awesome-devtools",
-              "description": null,
+              "description": "moimikey/awesome-devtools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "awesome-foss-apps",
-              "description": null,
+              "description": "DataDaoDe/awesome-foss-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "awesome-side-project",
-              "description": null,
+              "description": "maxprilutskiy/awesome-side-project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "awesome-oss-saas",
-              "description": null,
+              "description": "vihar/awesome-oss-saas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +529,7 @@
             {
               "node_type": "item",
               "title": "awesome-ai-software-development-agents",
-              "description": null,
+              "description": "flatlogic/awesome-ai-software-development-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -550,7 +550,7 @@
             {
               "node_type": "item",
               "title": "awesome-oss-devsec",
-              "description": null,
+              "description": "boxyhq/awesome-oss-devsec",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "awesome-product-hunt",
-              "description": null,
+              "description": "fmerian/awesome-product-hunt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "launchweek.dev",
-              "description": null,
+              "description": "supabase-community/launchweek.dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "find-oss",
-              "description": null,
+              "description": "SimoMay/find-oss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "awesome-developer-experience",
-              "description": null,
+              "description": "prokopsimek/awesome-developer-experience",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -694,7 +694,7 @@
             {
               "node_type": "item",
               "title": "awesome-deved",
-              "description": null,
+              "description": "kamranayub/awesome-deved",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -723,7 +723,7 @@
             {
               "node_type": "item",
               "title": "awesome-selfhosted-product",
-              "description": null,
+              "description": "kiarafbickers/awesome-selfhosted-product",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,7 +744,7 @@
             {
               "node_type": "item",
               "title": "ai-tools-integrations-market-map",
-              "description": null,
+              "description": "auchenberg/ai-tools-integrations-market-map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "usage-based-pricing",
-              "description": null,
+              "description": "appsmithorg/usage-based-pricing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -790,7 +790,7 @@
             {
               "node_type": "item",
               "title": "awesome-pricing",
-              "description": null,
+              "description": "quentin-py/awesome-pricing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -818,7 +818,7 @@
             {
               "node_type": "item",
               "title": "awesome-v0",
-              "description": null,
+              "description": "fmerian/awesome-v0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -859,7 +859,7 @@
             {
               "node_type": "item",
               "title": "awesome-newsletters",
-              "description": null,
+              "description": "zudochkin/awesome-newsletters",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,7 +872,7 @@
                 "open_issues": 52,
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4493,
+                "stars": 4494,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -887,7 +887,7 @@
             {
               "node_type": "item",
               "title": "developer-newsletters",
-              "description": null,
+              "description": "jackbridger/developer-newsletters",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -921,7 +921,7 @@
             {
               "node_type": "item",
               "title": "awesome-discord-communities",
-              "description": null,
+              "description": "mhxion/awesome-discord-communities",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -951,7 +951,7 @@
             {
               "node_type": "item",
               "title": "awesome-slack",
-              "description": null,
+              "description": "filipelinhares/awesome-slack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -978,7 +978,7 @@
             {
               "node_type": "item",
               "title": "awesome-dev-discord",
-              "description": null,
+              "description": "ljosberinn/awesome-dev-discord",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:54:48.320Z",
+    "last_updated": "2026-10-03T04:40:10.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",

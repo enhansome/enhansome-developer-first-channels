@@ -1,6 +1,6 @@
 # awesome-developer-first-channels with stars
 
-Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,833 | 🐛 3 | 📅 2026-10-01 and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 7,742 | 🐛 44 | 📅 2026-08-29, this repository is a non-exhaustive list of awesome places **for developer-first products.** You might also like [awesome-product-hunt](https://git.new/meow).
+Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,834 | 🐛 3 | 📅 2026-10-01 and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 7,746 | 🐛 44 | 📅 2026-08-29, this repository is a non-exhaustive list of awesome places **for developer-first products.** You might also like [awesome-product-hunt](https://git.new/meow).
 
 [Want to contribute?](#contributing)
 
@@ -21,18 +21,18 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,833
 
 ### repositories
 
-* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,090 | 🐛 11 | 🌐 HTML | 📅 2026-10-02
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,494 | 🐛 1 | 🌐 Shell | 📅 2026-09-30
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,727 | 🐛 148 | 🌐 Python | 📅 2025-09-03 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,702 | 🐛 785 | 📅 2026-09-16
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,095 | 🐛 14 | 🌐 HTML | 📅 2026-10-02
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,495 | 🐛 1 | 🌐 Shell | 📅 2026-09-30
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,730 | 🐛 148 | 🌐 Python | 📅 2025-09-03 ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,704 | 🐛 786 | 📅 2026-09-16
 * [landscape](https://github.com/cncf/landscape) ⭐ 10,003 | 🐛 63 | 📅 2026-10-02
 * [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,954 | 🐛 337 | 📅 2026-08-27
 * [awesome-dx](https://github.com/workos/awesome-developer-experience) ⚠️ Archived
-* [awesome-oss](https://github.com/sereneblue/awesome-oss) ⭐ 1,951 | 🐛 4 | 📅 2026-08-15 ![open-source](https://img.shields.io/badge/open--source-black)
-* [awesome-developer-first](https://github.com/agamm/awesome-developer-first) ⭐ 1,833 | 🐛 3 | 📅 2026-10-01
+* [awesome-oss](https://github.com/sereneblue/awesome-oss) ⭐ 1,952 | 🐛 4 | 📅 2026-08-15 ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-developer-first](https://github.com/agamm/awesome-developer-first) ⭐ 1,834 | 🐛 3 | 📅 2026-10-01
 * [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ⭐ 1,427 | 🐛 8 | 📅 2024-04-24 ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company) ⭐ 1,276 | 🐛 12 | 📅 2024-03-30
-* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,228 | 🐛 276 | 📅 2026-07-09
+* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,229 | 🐛 276 | 📅 2026-07-09
 * [openapi-tools](https://github.com/apisyouwonthate/openapi.tools) ⭐ 846 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-28
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops) ⭐ 842 | 🐛 58 | 📅 2024-07-03
 * [learn-from-open-source](https://github.com/elie222/learn-from-open-source) ⭐ 667 | 🐛 49 | 📅 2024-04-10 ![open-source](https://img.shields.io/badge/open--source-black)
@@ -92,7 +92,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) ⭐ 1,833
 
 ### more newsletters ↓
 
-* [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,493 | 🐛 52 | 📅 2026-10-01
+* [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,494 | 🐛 52 | 📅 2026-10-01
 * [developer-newsletters](https://github.com/jackbridger/developer-newsletters) ⭐ 196 | 🐛 9 | 📅 2026-03-18
 
 [↑ back to top](#contents)
@@ -352,7 +352,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 
 ## contributing
 
-I welcome every contribution. To do so, please [open a Pull Request (PR)](https://github.com/fmerian/awesome-developer-first-channels/pulls) ⭐ 177 | 🐛 4 | 📅 2026-07-17.
+I welcome every contribution. To do so, please [open a Pull Request (PR)](https://github.com/fmerian/awesome-developer-first-channels/pulls).
 
 I still do want to keep the quality of the list, so I may not merge all PRs.
 
