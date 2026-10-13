@@ -17,11 +17,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-11T15:45:43Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-12T17:34:46Z",
+                "open_issues": 13,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 139363,
+                "stars": 139430,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -35,17 +35,17 @@
               "description": "agarrharr/awesome-cli-apps",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
                 "homepage": null,
                 "id": 38832942,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-10-04T17:50:42Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-12T03:27:55Z",
+                "open_issues": 3,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20535,
+                "stars": 20539,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -72,7 +72,7 @@
                 "open_issues": 146,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19751,
+                "stars": 19757,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-11T21:23:55Z",
-                "open_issues": 864,
+                "open_issues": 877,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12727,
+                "stars": 12732,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -131,10 +131,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T19:41:16Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 10006,
+                "stars": 10009,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -161,10 +161,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 370,
+                "open_issues": 378,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3960,
+                "stars": 3962,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -206,7 +206,7 @@
                 "open_issues": 3,
                 "owner": "sereneblue",
                 "repo": "awesome-oss",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -233,7 +233,7 @@
                 "open_issues": 4,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1845,
+                "stars": 1846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -259,7 +259,7 @@
                 "open_issues": 8,
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
-                "stars": 1424,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1284,
+                "stars": 1286,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -298,7 +298,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
-                "open_issues": 282,
+                "open_issues": 284,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
                 "stars": 1231,
@@ -393,7 +393,7 @@
                 "open_issues": 49,
                 "owner": "elie222",
                 "repo": "learn-from-open-source",
-                "stars": 667,
+                "stars": 668,
                 "topics": [
                   "hacktoberfest",
                   "opensource"
@@ -435,7 +435,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
                 "stars": 539,
@@ -470,7 +470,7 @@
                 "open_issues": 6,
                 "owner": "DataDaoDe",
                 "repo": "awesome-foss-apps",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -528,27 +528,6 @@
             },
             {
               "node_type": "item",
-              "title": "awesome-ai-software-development-agents",
-              "description": "flatlogic/awesome-ai-software-development-agents",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome List of AI Software Development Agents (Engineers)",
-                "homepage": null,
-                "id": 942085005,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-02-14T16:53:57Z",
-                "open_issues": 14,
-                "owner": "flatlogic",
-                "repo": "awesome-ai-software-development-agents",
-                "stars": 189,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:55:04.928Z"
-            },
-            {
-              "node_type": "item",
               "title": "awesome-oss-devsec",
               "description": "boxyhq/awesome-oss-devsec",
               "children": [],
@@ -563,7 +542,7 @@
                 "open_issues": 2,
                 "owner": "boxyhq",
                 "repo": "awesome-oss-devsec",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "developer-security",
                   "hacktoberfest",
@@ -572,6 +551,27 @@
                   "security",
                   "security-tools"
                 ]
+              },
+              "first_seen": "2026-08-28T06:55:04.928Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-ai-software-development-agents",
+              "description": "flatlogic/awesome-ai-software-development-agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome List of AI Software Development Agents (Engineers)",
+                "homepage": null,
+                "id": 942085005,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-02-14T16:53:57Z",
+                "open_issues": 14,
+                "owner": "flatlogic",
+                "repo": "awesome-ai-software-development-agents",
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
             },
@@ -617,7 +617,7 @@
                 "id": 688039657,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-10-08T11:53:53Z",
+                "last_commit": "2026-10-12T21:20:21Z",
                 "open_issues": 1,
                 "owner": "supabase-community",
                 "repo": "launchweek.dev",
@@ -643,7 +643,7 @@
                 "id": 474127208,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T09:18:02Z",
+                "last_commit": "2026-10-12T09:35:51Z",
                 "open_issues": 1,
                 "owner": "SimoMay",
                 "repo": "find-oss",
@@ -934,7 +934,7 @@
                 "open_issues": 26,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3618,
+                "stars": 3620,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:20:18.440Z",
+    "last_updated": "2026-10-13T03:30:58.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
