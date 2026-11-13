@@ -17,11 +17,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-11-11T12:05:20Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-12T17:04:22Z",
+                "open_issues": 14,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 142633,
+                "stars": 142714,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -45,7 +45,7 @@
                 "open_issues": 5,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20619,
+                "stars": 20624,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -69,10 +69,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-03T17:43:01Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19861,
+                "stars": 19868,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -101,10 +101,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-30T17:31:48Z",
-                "open_issues": 1348,
+                "open_issues": 1355,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12825,
+                "stars": 12832,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -130,11 +130,11 @@
                 "id": 72878982,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T19:03:10Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-12T21:36:36Z",
+                "open_issues": 82,
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 10030,
+                "stars": 10031,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -161,10 +161,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 537,
+                "open_issues": 541,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
-                "stars": 3998,
+                "stars": 3999,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -230,10 +230,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T17:05:35Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1312,
+                "stars": 1315,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -372,7 +372,7 @@
                 "open_issues": 58,
                 "owner": "joubertredrat",
                 "repo": "awesome-devops",
-                "stars": 842,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -435,7 +435,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
-                "open_issues": 99,
+                "open_issues": 102,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
                 "stars": 544,
@@ -587,7 +587,7 @@
                 "id": 724531474,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-10T12:18:44Z",
+                "last_commit": "2026-11-12T10:55:23Z",
                 "open_issues": 0,
                 "owner": "fmerian",
                 "repo": "awesome-product-hunt",
@@ -617,7 +617,7 @@
                 "id": 688039657,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-11-05T09:01:16Z",
+                "last_commit": "2026-11-12T10:50:21Z",
                 "open_issues": 1,
                 "owner": "supabase-community",
                 "repo": "launchweek.dev",
@@ -869,7 +869,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T13:40:00Z",
-                "open_issues": 77,
+                "open_issues": 79,
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
                 "stars": 4511,
@@ -934,7 +934,7 @@
                 "open_issues": 27,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3638,
+                "stars": 3641,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -964,7 +964,7 @@
                 "open_issues": 3,
                 "owner": "filipelinhares",
                 "repo": "awesome-slack",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:46:53.879Z",
+    "last_updated": "2026-11-13T03:23:00.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
