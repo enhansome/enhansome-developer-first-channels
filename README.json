@@ -17,11 +17,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-11-16T20:28:54Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-17T16:36:29Z",
+                "open_issues": 15,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 143006,
+                "stars": 143087,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -45,7 +45,7 @@
                 "open_issues": 5,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20630,
+                "stars": 20634,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -69,10 +69,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-03T17:43:01Z",
-                "open_issues": 160,
+                "open_issues": 161,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19872,
+                "stars": 19876,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -100,11 +100,11 @@
                 "id": 554771302,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-16T23:32:09Z",
-                "open_issues": 1408,
+                "last_commit": "2026-11-17T13:31:45Z",
+                "open_issues": 1428,
                 "owner": "steven2358",
                 "repo": "awesome-generative-ai",
-                "stars": 12834,
+                "stars": 12839,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -130,11 +130,11 @@
                 "id": 72878982,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T21:30:48Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-17T23:33:42Z",
+                "open_issues": 83,
                 "owner": "cncf",
                 "repo": "landscape",
-                "stars": 10032,
+                "stars": 10037,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -161,7 +161,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-27T15:25:27Z",
-                "open_issues": 554,
+                "open_issues": 559,
                 "owner": "jamesmurdza",
                 "repo": "awesome-ai-devtools",
                 "stars": 4002,
@@ -233,7 +233,7 @@
                 "open_issues": 2,
                 "owner": "agamm",
                 "repo": "awesome-developer-first",
-                "stars": 1895,
+                "stars": 1897,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -259,7 +259,7 @@
                 "open_issues": 8,
                 "owner": "tvvocold",
                 "repo": "FOSS-for-Dev",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -298,7 +298,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-09T17:29:58Z",
-                "open_issues": 319,
+                "open_issues": 321,
                 "owner": "e2b-dev",
                 "repo": "awesome-ai-sdks",
                 "stars": 1241,
@@ -337,7 +337,7 @@
                 "id": 114417462,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T00:37:41Z",
+                "last_commit": "2026-11-17T10:49:59Z",
                 "open_issues": 21,
                 "owner": "apisyouwonthate",
                 "repo": "openapi.tools",
@@ -542,7 +542,7 @@
                 "open_issues": 15,
                 "owner": "flatlogic",
                 "repo": "awesome-ai-software-development-agents",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:04.928Z"
@@ -872,7 +872,7 @@
                 "open_issues": 80,
                 "owner": "zudochkin",
                 "repo": "awesome-newsletters",
-                "stars": 4510,
+                "stars": 4511,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -934,7 +934,7 @@
                 "open_issues": 27,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:03:37.812Z",
+    "last_updated": "2026-11-18T04:14:05.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "hand-picked places to promote your developer-first product",
@@ -1019,8 +1019,8 @@
       "id": 608380863,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-03T10:34:02Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-17T11:49:21Z",
+      "open_issues": 0,
       "owner": "fmerian",
       "repo": "awesome-developer-first-channels",
       "stars": 181,
@@ -1041,7 +1041,7 @@
         "startups"
       ]
     },
-    "original_repository_sha": "9977895c02382b987f07495138eb30d9502a9b46",
+    "original_repository_sha": "4f083ded51c7ad4cb29b91570f82224c2992b218",
     "enhanced_repository": "enhansome/enhansome-developer-first-channels",
     "enhanced_repository_description": null,
     "title": "awesome-developer-first-channels with stars"
